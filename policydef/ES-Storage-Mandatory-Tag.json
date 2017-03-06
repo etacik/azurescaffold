@@ -13,5 +13,8 @@
         "equals":"Microsoft.Storage/storageAccounts"
       }
     ]
+  },
+  "then":{
+    "effect": "audit"
   }
 }
